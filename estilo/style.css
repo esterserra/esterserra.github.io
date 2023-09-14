@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+header {
+    background-color: #212529;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: white;
+  }
+
+.navbar-toggler-icon {
+    background-color: white; 
+  } 
+
+#container-inicio {
+    background-color: #212529;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+#container-inicio h1 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#container-inicio h2 {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+#container-inicio p {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+#container-habilidades h1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#container-habilidades p {
+    font-size: 12px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#container-projetos {
+    padding-bottom: 10px;
+}
+
+#container-projetos h1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 40px;
+    text-align: center;
+}
+
+#container-projetos h5 {
+    font-size: 15px;
+    text-align: center;
+}
+
+#container-projetos p {
+    font-size: 12px;
+    text-align: center;
+}
+
+#container-contato {
+    font-size: 12px;
+    align-items: center;
+    background-color: #212529;
+    color: white;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer {
+    background-color: #212529;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
