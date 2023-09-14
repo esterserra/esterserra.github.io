@@ -38,6 +38,10 @@ a {
     padding-left: 40px;
 }
 
+#container-inicio .row {
+    --bs-gutter-x: -3.5rem;
+}
+
 #container-inicio h1 {
     font-weight: bold;
     font-size: 25px;
